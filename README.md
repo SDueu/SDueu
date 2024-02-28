@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samuel
 - 👀 I’m interested in learn programing language
 - 🌱 I’m currently learning programation with HTML and CSS
-- 💞️ I’m looking to collaborate on development of my company
+- 💞️ I’m looking to collaborate on development of companys
 - 📫 Contact: samuelsivalopess@gmail.com
 - 😄 Pronouns: He
 
